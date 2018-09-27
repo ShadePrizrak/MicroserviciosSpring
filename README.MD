@@ -32,3 +32,8 @@ Como comandos tenemos:
     * base (alias 'b'): El monto base para determinar los números aleatorios
     * rango (alias 'r'): El rango maximo para determinar los números aleatorios
 * Feign (Opcional) : Esta peticiones determinan si las solicitudes seran hechas al cliente Feign.
+   
+# Integrantes
+* César Augusto Mariluz Esmeralda
+* Liz Fiorella Quiroz Sotelo
+* Jorge Anthony Huayanay Arcos
